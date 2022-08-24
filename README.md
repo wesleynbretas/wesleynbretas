@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleynbretas&label=Profile%20views&color=0e75b6&style=flat" alt="wesleynbretas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wesleynbretas" alt="wesleynbretas" /></a> </p>
-
 - 🌱 meus estudos **data engineer, python, spark, sql, cloud e git**
 
 - 💬 meus interesses e conhecimentos **sql, python, cloud, etl, datalake, datawarehouse, bi**
